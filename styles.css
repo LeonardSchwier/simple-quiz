@@ -1,0 +1,27 @@
+html
+{
+	background-color: #f9f9f9;
+    font-family: "Arial";
+	text-align: center;
+}
+
+#slide
+{
+	margin: 20px 0 0 0;
+	font-size: 20px;
+}
+#link
+{
+	margin: 60px auto 60px auto;
+	font-size: 70px;
+	text-align: center;
+}
+a:link
+{
+    color: #CD3333;
+	text-decoration: none;
+}
+a:visited
+{
+    color: #CD3333;
+}
